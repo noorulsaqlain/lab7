@@ -7,4 +7,8 @@ Console.WriteLine("plates");
 
 
 
+
 Console.WriteLine("LCD");
+
+Console.WriteLine("fridge");
+
